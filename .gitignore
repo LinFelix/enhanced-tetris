@@ -1,0 +1,6 @@
+# compiler stuff
+*.elc
+
+# safe-files
+\#*.*\#
+*.*~
