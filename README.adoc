@@ -1,0 +1,11 @@
+= Enhanced Tetris _(I really should have thought about a better name)_
+
+This tetris extension for *Emacs*
+ M-x tetris
+
+== (not yet) supported (future) Features
+
+* Showing a _Ghost_ (in transparant or grey, a _Ghost_ is shown, where the piece/shape would drop to)
+* Trajectory (the trajectory where the peace will fall is shown)
+
+=== More details will follow
